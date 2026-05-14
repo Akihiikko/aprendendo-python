@@ -1,3 +1,5 @@
+# Inicio das atividades. Entendendo estruturas de python e como aplicá-las.
+
 print("Hello, World!")
 print("Isso é um texto")
 print ("1") #str (String de caracteres)
@@ -6,6 +8,8 @@ print (-2) #int (Numero inteiro)
 print (8.2) #float (Numero real ou decimal, ponto flutuante)
 print (False) # Verdadeiro ou
 print (True) # Falso (Tipo boolean -bool)
+
+#Exemplo de estrutura
 
 nome = "Amanda"
 idade = 19
@@ -29,7 +33,7 @@ print ("Hoje é o aniversário da {} e ela está completando {} anos e pesa {} k
 #   else: (NAO PODE XXXXXXXX)
 #else (ai ta podeno)
 
-#comando .replace faz a troca de uma coisa pela outra, por exemplo
+# O .replace faz a troca de uma coisa pela outra, por exemplo
 # quero que um numero quando for quebrado seja valido escrrito via , ouu .
 # O .replace(",",".") vai encontrar uma virgula, mas o codigo troca por um ponto 
 # e a conta é feita!! o codigo não da erro c:
