@@ -1,4 +1,4 @@
-# aprendendo-python
+# Aprendendo Python
 
 ## Primeira aula
 
