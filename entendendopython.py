@@ -37,3 +37,5 @@ print ("Hoje é o aniversário da {} e ela está completando {} anos e pesa {} k
 # quero que um numero quando for quebrado seja valido escrrito via , ouu .
 # O .replace(",",".") vai encontrar uma virgula, mas o codigo troca por um ponto 
 # e a conta é feita!! o codigo não da erro c:
+
+# UPPER . lower para maiusculo ou minusculo.
