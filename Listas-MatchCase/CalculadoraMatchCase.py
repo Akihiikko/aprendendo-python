@@ -6,7 +6,7 @@
 #Sair
 #O programa deve executar a ação escolhida e mostrar o menu novamente. Ele só deve encerrar de verdade quando o usuário digitar a opção 5.
 while True:
-    print("Escolha uma operaça: \n 1 - Somar \n 2 - Subtrair \n 3 - Multiplicar \n 4 - Dividir \n 5 - Sair")
+    print("Escolha uma operação: \n 1 - Somar \n 2 - Subtrair \n 3 - Multiplicar \n 4 - Dividir \n 5 - Sair")
     opcao = int(input("Escolha a operacao que deseja realizar: "))
 
 
