@@ -35,5 +35,5 @@ while True:
             result = num1 / num2
             print("O resultado é: {result}")
         case _:
-            print("Escolha uma das opcoes acima!!")
+            print("Escolha uma das opções acima!!")
 # O break para a reprectcao e interrompe tudo. Já o continue continua deixando o codigo rodando.
