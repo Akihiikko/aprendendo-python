@@ -18,3 +18,12 @@
 #def mult(n1, n2, n3):
 #   mult = n1 * n2* n3
 #mult(5, 3, 7)
+def PI():
+    return 3.14
+
+def somar(n1, n2):
+    soma = n1 + n2
+    return soma
+
+def subtrair(n1, n2):
+    return n1 - n2
